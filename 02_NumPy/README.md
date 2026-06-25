@@ -13,24 +13,98 @@ The goal is simple:
 
 ---
 
-## Roadmap
+# NumPy Learning Roadmap
 
-- [ ] Why NumPy?
-- [ ] ndarray
-- [ ] Creating Arrays
-- [ ] Shape, Dimensions & Axis
-- [ ] Data Types
-- [ ] Indexing
-- [ ] Slicing
-- [ ] Vectorization
-- [ ] Broadcasting
-- [ ] Mathematical Operations
-- [ ] Statistics
-- [ ] Linear Algebra
-- [ ] Random Module
-- [ ] Memory & Performance
-- [ ] NumPy for Machine Learning
-- [ ] Cheat Sheet
+* [ ] Why NumPy?
+
+* [ ] ndarray & Creating Arrays
+
+  * `array()`
+  * `zeros()`
+  * `ones()`
+  * `full()`
+  * `eye()`
+  * `arange()`
+  * `linspace()`
+
+* [ ] Array Properties
+
+  * Shape
+  * Dimensions (`ndim`)
+  * Axis
+  * Data Types (`dtype`)
+  * Size
+  * Item Size
+  * Reshape
+  * Flatten vs Ravel
+
+* [ ] Indexing & Slicing
+
+  * Basic Indexing
+  * Negative Indexing
+  * Slicing
+  * Boolean Indexing
+  * Fancy Indexing
+  * Copy vs View
+
+* [ ] Vectorization & Broadcasting
+
+  * Vectorized Operations
+  * Broadcasting Rules
+  * Performance Comparison
+
+* [ ] Mathematical Operations & Statistics
+
+  * Arithmetic Operations
+  * Universal Functions (ufuncs)
+  * Aggregation Functions
+  * Sum
+  * Mean
+  * Median
+  * Standard Deviation
+  * Min / Max
+  * Argmin / Argmax
+
+* [ ] Linear Algebra
+
+  * Dot Product
+  * Matrix Multiplication
+  * Transpose
+  * Inverse
+  * Determinant
+  * Eigenvalues & Eigenvectors
+
+* [ ] Random Module
+
+  * Random Numbers
+  * Random Arrays
+  * Seed
+  * Shuffle
+  * Choice
+  * Uniform Distribution
+  * Normal Distribution
+
+* [ ] Memory & Performance
+
+  * Contiguous Memory
+  * Memory Layout
+  * Views vs Copies
+  * Cache Efficiency
+  * Vectorization vs Loops
+  * Time Complexity
+
+* [ ] NumPy for Machine Learning
+
+  * Dataset Representation
+  * Feature Matrix & Labels
+  * Image Representation
+  * Time Series
+  * Linear Regression
+  * Logistic Regression
+  * Neural Networks
+
+* [ ] NumPy Cheat Sheet
+
 
 ---
 
